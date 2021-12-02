@@ -18,7 +18,7 @@ Exercise tracking application that user can pick location and log daily workout 
 
 - **Allow users to pick location to save the log**
 
-![](images/save-log.jpg)
+![](images/save-log.png)
 
 - **Once the user saves the log, it appears on the map with picked location**
 
