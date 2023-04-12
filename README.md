@@ -2,7 +2,6 @@
 
 ## Overview
 Exercise tracking application that user can pick location and log daily workout based on it.
-![](images/overview.png)
 
 ## Technologies
 - JavaScript
